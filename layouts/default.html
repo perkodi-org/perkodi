@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>A Brand New Nanoc Site - <%= @item[:title] %></title>
-    <link rel="stylesheet" href="./stylesheet.css">
+    <link rel="stylesheet" href="/stylesheet.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
@@ -13,16 +13,18 @@
       <%= yield %>
     </div>
     <div id="sidebar">
-      <h2>Documentation</h2>
+      <h2>Perkodi</h2>
       <ul>
-        <li><a href="http://nanoc.ws/doc/">Documentation</a></li>
-        <li><a href="http://nanoc.ws/doc/tutorial/">Tutorial</a></li>
+	<li><a href="/">Beranda</a></li>
+        <li><a href="/tentang">Tentang</a></li>
+        <li><a href="/anggota">Menjadi Anggota</a></li>
+        <li><a href="/aktivitas">Aktivitas</a></li>
+        <li><a href="/laporan">Laporan Keuangan</a></li>
       </ul>
       <h2>Community</h2>
       <ul>
-        <li><a href="http://groups.google.com/group/nanoc/">Discussion group</a></li>
-        <li><a href="https://gitter.im/nanoc/nanoc">Gitter channel</a></li>
-        <li><a href="http://nanoc.ws/contributing/">Contributing</a></li>
+        <li><a href="http://ruby.id/slack">Slack Group at Ruby.Id</a></li>
+        <li><a href="https://github.com/perkodi-org/perkodi">Contributing</a></li>
       </ul>
     </div>
   </body>
