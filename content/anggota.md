@@ -14,7 +14,7 @@ Menjadi anggota Perkodi memiliki keuntungan sebagai berikut
 * Goodies khusus anggota
 
 ## Cara Menjadi Anggota
-* Melakukan pendaftaran pada [ruby.id](http://ruby.id/daftar)
+* Melakukan pendaftaran pada [Google Form berikut ini](https://docs.google.com/forms/d/e/1FAIpQLScQaxwTMqBZUrd6wu78bASvQZjI6N7tsMNWkHWabArrPpudjw/viewform)
 * Transfer iuran anggota baru ke:
   * 124-00-0787116-4
   * PERKUMPULAN PENGRAJIN KODE INDONESIA
