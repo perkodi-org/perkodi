@@ -88,3 +88,9 @@ checks:
     # E.g.:
     #   exclude_files: ['blog/page']
     exclude_files: []
+
+# `nanoc deploy` configuration for git-pages
+deploy:
+  default:
+    kind: git
+    branch: gh-pages
