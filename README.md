@@ -11,7 +11,7 @@ bundle exec nanoc
 Preview
 
 ```
-bundle exec view
+bundle exec nanoc view
 ```
 
 ## How to deploy to GitHub Pages
