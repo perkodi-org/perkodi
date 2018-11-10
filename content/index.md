@@ -20,3 +20,5 @@ PERKODI memiliki misi
   * Mempromosikan perkumpulan ke instansi terkait baik pemerintah maupun swasta
   * Kerjasama penyelenggaran kegiatan untuk masyarakat
   * Kerjasama penelitian dan pengembangan
+
+Aktivitas PERKODI dapat dilihat di [halaman ini](/aktivitas)
