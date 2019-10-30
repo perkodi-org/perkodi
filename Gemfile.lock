@@ -27,7 +27,7 @@ GEM
       ref (~> 2.0)
       slow_enumerator_tools (~> 1.0)
     public_suffix (3.0.1)
-    rack (2.0.3)
+    rack (2.0.7)
     ref (2.0.0)
     slow_enumerator_tools (1.1.0)
 
