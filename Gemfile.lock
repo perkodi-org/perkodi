@@ -16,7 +16,8 @@ GEM
     ddtelemetry (1.0.0a2)
     hamster (3.0.0)
       concurrent-ruby (~> 1.0)
-    kramdown (1.16.2)
+    kramdown (2.3.0)
+      rexml
     nanoc (4.8.19)
       addressable (~> 2.5)
       cri (~> 2.8)
@@ -29,6 +30,7 @@ GEM
     public_suffix (3.0.1)
     rack (2.0.3)
     ref (2.0.0)
+    rexml (3.2.4)
     slow_enumerator_tools (1.1.0)
 
 PLATFORMS
