@@ -15,5 +15,6 @@ title: Aktivitas
 * Konferensi Internasional Kubernetes Community Days Pertama [Kubedays ID 2021](https://community.cncf.io/events/details/cncf-kcd-indonesia-presents-kubernetes-community-days-indonesia-2021/)
 * Konferensi Internasional Python Kelima [PyCon ID 2021](http://pycon.id)
 * Konferensi Internasional Kubernetes Community Days Kedua [Kubedays ID 2022](https://community.cncf.io/events/details/cncf-kcd-indonesia-presents-kubernetes-community-days-amp-openinfra-days-indonesia-2022/)
-* Konferensi Internasional Python Ketujuh [PyCon ID 2023](http://pycon.id)
+* Konferensi Internasional Python Keenam [PyCon ID 2023](http://pycon.id)
+* Konferensi Internasional Python Ketujuh [PyCon APAC ID 2024](https://2024-apac.pycon.id/)
 
